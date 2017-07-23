@@ -13,8 +13,9 @@ Fill the table of the comparison of two methods
 
 | Comparison  | MLP | Ruochen's Network |
 | ------------- | ------------- | ------------- |
-| Acc(5 epoch CV)  | 0.964200  | 0.983900  |
-| CPU Avg Epoch time  | 2.103  | 432.678  |
+| Acc(5 epoch Train ACC)  | 0.986465  | 0.992323  |
+| Acc(5 epoch CV)  | 0.975500  | 0.983900  |
+| CPU Avg Epoch time  | 2.144  | 432.678  |
 | GPU Avg Epoch time  | NA  | NA  |
 
 
