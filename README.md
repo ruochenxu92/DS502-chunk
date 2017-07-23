@@ -8,16 +8,14 @@ Kernel Size and Stride Size
 BN
 ```
 
-### CPU CNN
-Fill the table of the comparison of two methods
+### Fill the table of the comparison of two methods
 
 | Comparison  | MLP | Ruochen's Network |
 | ------------- | ------------- | ------------- |
-| Acc(5 epoch Train ACC)  | 0.986465  | 0.992323  |
-| Acc(5 epoch CV)  | 0.975500  | 0.983900  |
-| CPU Avg Epoch time  | 2.144  | 432.678  |
-| GPU Avg Epoch time  | NA  | NA  |
-
+| Acc(5 epoch Train ACC)  | 0.986465  | 0.998687  |
+| Acc(5 epoch CV)  | 0.975500  | 0.992200  |
+| CPU 5 Epoch time  | 2.144  | 361.695  |
+| GPU 5 Epoch time  | NA  | NA
 
 ### Resources:
 * https://bittigerimages.s3.amazonaws.com/gitbookImages/DS502-1702/DS502-1702%20%20Week3%20theory%20%28With%20Watermark%29%20%28Compressed%29-%E6%B0%B4%E5%8D%B0.pdf
