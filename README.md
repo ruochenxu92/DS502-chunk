@@ -11,10 +11,11 @@ Fill the table of the comparison of two methods
 
 |GPU Epoch Time(optional)|
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Comparison  | MLP | Ruochen's Network |
+| ------------- | ------------- | ------------- |
+| Acc(5 epoch CV)  | 0.964200  | 0.983900  |
+| CPU Avg Epoch time  | 2.103  | 432.678  |
+| GPU Avg Epoch time  | NA  | NA  |
 
 
 ### REFERENCE:

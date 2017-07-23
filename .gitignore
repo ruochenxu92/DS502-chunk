@@ -1,0 +1,4 @@
+*.pyc
+*.gz
+*.xml
+.idea/*
