@@ -1,5 +1,13 @@
 # MXNET-Week2 homework
 
+```
+Try different kernel size like (2, 2), (3, 3), (5, 5) and stride size (2, 2), (1, 1)
+I found out kernel size (3, 3) and stride size (1, 1) works best.
+Most importance parameters:
+Kernel Size and Stride Size
+BN
+```
+
 ### CPU CNN
 Fill the table of the comparison of two methods
 
